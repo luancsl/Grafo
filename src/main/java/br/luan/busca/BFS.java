@@ -17,6 +17,7 @@ import prefuse.data.Node;
 public class BFS {
 
     private int custo = 2;
+    //dffdfd;
     private GrafoPanel visual;
     private boolean inicioFim = false;
 
